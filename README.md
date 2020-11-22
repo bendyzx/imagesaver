@@ -9,3 +9,6 @@ Copy ***imagesaver*** to ***/dot/imagesaver*** on your Spectrum Next SD card
 
 ## Requirements
 Please note: An ESP chip and a configured WiFi network are required in your Spectrum Next to use this software
+
+## Demo
+A demo video is available at ***https://youtu.be/igGdcZFDPsk***
